@@ -24,7 +24,7 @@ An analysis in part drawing on these papers can be found in
 
 [Caliskan, K. 2020.  Data Money: The Socio-Technical Infrastructure of
 Cryptocurrency Blockchains, Economy and Society, Vol. 49, No. 4,
-pp. 1–22.](https://doi.org/10.1080/03085147.2020.1774258=
+pp. 1–22.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3372015)
 
 We would like to thank Sevde Ünal, Collin Mcclain and Hasine Güler for
 research assistance and data preparation.
