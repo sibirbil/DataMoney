@@ -1,6 +1,6 @@
 # White Papers of Top 100 Cryptocurrencies and Their Blockchains
 
-**Reference: ** Caliskan, K. and Birbil, S.I. (2020). White Papers of
+**Reference:** Caliskan, K. and Birbil, S.I. (2020). White Papers of
 top 100 Cryptocurrencies and their Blockchains. GitHub Repository
 https://github.com/sibirbil/DataMoney
 
