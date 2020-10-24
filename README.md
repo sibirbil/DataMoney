@@ -4,6 +4,8 @@
 top 100 Cryptocurrencies and their Blockchains. GitHub Repository
 https://github.com/sibirbil/DataMoney
 
+[![DOI](https://zenodo.org/badge/295166954.svg)](https://zenodo.org/badge/latestdoi/295166954)
+
 These data present all text content of the white papers of most
 valuable 100 cryptocurrencies as of 1 June 2018, except those of the
 Digibyte, Dogecoin, GAS, Huobi Token and Monacoin, cryptocurrencies
